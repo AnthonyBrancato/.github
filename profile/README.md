@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://react.dev">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://react.dev/images/home/conf2021/cover.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://react.dev/images/home/conf2021/cover.svg">
+            <!-- <source media="(prefers-color-scheme: dark)" srcset="https://react.dev/images/home/conf2021/cover.svg"> -->
+            <!-- <source media="(prefers-color-scheme: light)" srcset="https://react.dev/images/home/conf2021/cover.svg"> -->
             <img alt="React cover with logo" src="https://react.dev/images/home/conf2021/cover.svg" width="100%">
         </picture>
     </a>
